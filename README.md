@@ -1,4 +1,4 @@
-# Data Cleaning Project
+# Data Cleaning SQL Project
 
 ## Project Overview
 
